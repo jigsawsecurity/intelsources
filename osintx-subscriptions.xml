@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0" xmlns:selfoss="http://selfoss.aditu.de/">
+    <selfoss:meta generatedBy="selfoss-2.17" version="1.0" createdOn="Thu, 28 May 2020 02:31:45 +0000"/>
+    <head>
+        <title>My subscriptions in selfoss</title>
+    </head>
+    <body>
+        <outline title="GOVCONTRACTS" text="GOVCONTRACTS" selfoss:color="#ac1f94">
+            <outline title="CTTSO - Government Contracts" text="CTTSO - Government Contracts" xmlUrl="https://bids.cttso.gov/tswg/bids.nsf/cttsobidsfeed.rss" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/bids.cttso.gov\/tswg\/bids.nsf\/cttsobidsfeed.rss&quot;}"/>
+        </outline>
+        <outline title="1 - Currituck" text="1 - Currituck" selfoss:color="#4937fe">
+            <outline title="Currituck News Daily Advance" text="Currituck News Daily Advance" xmlUrl="http://www.dailyadvance.com/Currituck/rss?request=SECTION&amp;parent=6" type="rss" selfoss:spout="spouts\rss\enclosures" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.dailyadvance.com\/Currituck\/rss?request=SECTION&amp;parent=6&quot;}"/>
+            <outline title="Board of Commissioners Calendar" text="Board of Commissioners Calendar" xmlUrl="http://currituckcountync.iqm2.com/Services/RSS.aspx?Feed=Calendar" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;http:\/\/currituckcountync.iqm2.com\/Services\/RSS.aspx?Feed=Calendar&quot;}"/>
+        </outline>
+        <outline title="Jigsaw Security" text="Jigsaw Security" selfoss:color="#831864">
+            <outline title="Jigsaw Security" text="Jigsaw Security" xmlUrl="https://www.jigsawsecurityenterprise.com/feed.xml" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.jigsawsecurityenterprise.com\/feed.xml&quot;}"/>
+        </outline>
+        <outline title="0 - THREATS" text="0 - THREATS" selfoss:color="#fe0000">
+            <outline title="Symantec Viruses" text="Symantec Viruses" xmlUrl="https://www.symantec.com/xml/rss/listings.jsp?lid=latestthreats30days" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.symantec.com\/xml\/rss\/listings.jsp?lid=latestthreats30days&quot;}"/>
+            <outline title="Symantec Threats" text="Symantec Threats" xmlUrl="http://www.symantec.com/xml/rss/listings.jsp?lid=latestthreats30days" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.symantec.com\/xml\/rss\/listings.jsp?lid=latestthreats30days&quot;}"/>
+            <outline title="Avast Blog" text="Avast Blog" xmlUrl="https://blog.avast.com/rss.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/blog.avast.com\/rss.xml&quot;}"/>
+            <outline title="TreadLabs Security Intel Blog" text="TreadLabs Security Intel Blog" xmlUrl="http://feeds.trendmicro.com/Anti-MalwareBlog" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/feeds.trendmicro.com\/Anti-MalwareBlog&quot;}"/>
+            <outline title="TrendMicro Malware Top 10" text="TrendMicro Malware Top 10" xmlUrl="http://feeds.trendmicro.com/MalwareTop10" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/feeds.trendmicro.com\/MalwareTop10&quot;}"/>
+        </outline>
+        <outline title="AFCEA" text="AFCEA" selfoss:color="#bcf0bb">
+            <outline title="AFCEA White Papers" text="AFCEA White Papers" xmlUrl="https://www.afcea.org/signal/resources/rss.cfm" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.afcea.org\/signal\/resources\/rss.cfm&quot;}"/>
+        </outline>
+        <outline title="0 - Twitter" text="0 - Twitter" selfoss:color="#148896">
+            <selfoss:outline title="Bad Packets" text="Bad Packets" selfoss:spout="spouts\twitter\usertimeline" selfoss:params="{&quot;consumer_key&quot;:&quot;UAiQy9lbVPRzB5SaOivHoM3BJ&quot;,&quot;consumer_secret&quot;:&quot;ZtQHTffP7KMtaVU0FnItiilQQy9let2JH2Yf1ONj1EC72RMMiW&quot;,&quot;access_token&quot;:&quot;&quot;,&quot;access_token_secret&quot;:&quot;&quot;,&quot;username&quot;:&quot;@bad_packets&quot;}"/>
+            <selfoss:outline title="HeliosCert" text="HeliosCert" selfoss:spout="spouts\twitter\usertimeline" selfoss:params="{&quot;consumer_key&quot;:&quot;UAiQy9lbVPRzB5SaOivHoM3BJ&quot;,&quot;consumer_secret&quot;:&quot;ZtQHTffP7KMtaVU0FnItiilQQy9let2JH2Yf1ONj1EC72RMMiW&quot;,&quot;access_token&quot;:&quot;&quot;,&quot;access_token_secret&quot;:&quot;&quot;,&quot;username&quot;:&quot;@HeliosCert&quot;}"/>
+            <selfoss:outline title="MalewareHunterTeam" text="MalewareHunterTeam" selfoss:spout="spouts\twitter\usertimeline" selfoss:params="{&quot;consumer_key&quot;:&quot;UAiQy9lbVPRzB5SaOivHoM3BJ&quot;,&quot;consumer_secret&quot;:&quot;ZtQHTffP7KMtaVU0FnItiilQQy9let2JH2Yf1ONj1EC72RMMiW&quot;,&quot;access_token&quot;:&quot;&quot;,&quot;access_token_secret&quot;:&quot;&quot;,&quot;username&quot;:&quot;@malwrhunterteam&quot;}"/>
+            <selfoss:outline title="Phish Find R" text="Phish Find R" selfoss:spout="spouts\twitter\usertimeline" selfoss:params="{&quot;consumer_key&quot;:&quot;UAiQy9lbVPRzB5SaOivHoM3BJ&quot;,&quot;consumer_secret&quot;:&quot;ZtQHTffP7KMtaVU0FnItiilQQy9let2JH2Yf1ONj1EC72RMMiW&quot;,&quot;access_token&quot;:&quot;&quot;,&quot;access_token_secret&quot;:&quot;&quot;,&quot;username&quot;:&quot;@PhishFindR&quot;}"/>
+            <selfoss:outline title="Phish Stats" text="Phish Stats" selfoss:spout="spouts\twitter\usertimeline" selfoss:params="{&quot;consumer_key&quot;:&quot;UAiQy9lbVPRzB5SaOivHoM3BJ&quot;,&quot;consumer_secret&quot;:&quot;ZtQHTffP7KMtaVU0FnItiilQQy9let2JH2Yf1ONj1EC72RMMiW&quot;,&quot;access_token&quot;:&quot;&quot;,&quot;access_token_secret&quot;:&quot;&quot;,&quot;username&quot;:&quot;@PhishStats&quot;}"/>
+            <selfoss:outline title="QuickLine UK" text="QuickLine UK" selfoss:spout="spouts\twitter\usertimeline" selfoss:params="{&quot;consumer_key&quot;:&quot;UAiQy9lbVPRzB5SaOivHoM3BJ&quot;,&quot;consumer_secret&quot;:&quot;ZtQHTffP7KMtaVU0FnItiilQQy9let2JH2Yf1ONj1EC72RMMiW&quot;,&quot;access_token&quot;:&quot;&quot;,&quot;access_token_secret&quot;:&quot;&quot;,&quot;username&quot;:&quot;@QuicklineUK&quot;}"/>
+        </outline>
+        <outline title="3 - BUSINESS" text="3 - BUSINESS" selfoss:color="#9fc1c5">
+            <outline title="BBC Business News" text="BBC Business News" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/business/rss.xml?edition=uk" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/feeds.bbci.co.uk\/news\/video_and_audio\/business\/rss.xml?edition=uk&quot;}"/>
+        </outline>
+        <outline title="1 - NEWS" text="1 - NEWS" selfoss:color="#329a9d">
+            <outline title="BBC News" text="BBC News" xmlUrl="http://feeds.bbci.co.uk/news/rss.xml?edition=uk" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/feeds.bbci.co.uk\/news\/rss.xml?edition=uk&quot;}"/>
+            <outline title="BBC News World" text="BBC News World" xmlUrl="http://feeds.bbci.co.uk/news/video_and_audio/world/rss.xml?edition=uk" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/feeds.bbci.co.uk\/news\/video_and_audio\/world\/rss.xml?edition=uk&quot;}"/>
+            <outline title="CSO Online" text="CSO Online" xmlUrl="http://www.csoonline.com/index.rss" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.csoonline.com\/index.rss&quot;}"/>
+            <outline title="PR Newswire All News" text="PR Newswire All News" xmlUrl="https://www.prnewswire.com/rss/all-news-releases-from-PR-newswire-news.rss" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.prnewswire.com\/rss\/all-news-releases-from-PR-newswire-news.rss&quot;}"/>
+            <outline title="RT" text="RT" xmlUrl="https://www.rt.com/rss/news/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.rt.com\/rss\/news\/&quot;}"/>
+            <outline title="Yahoo News Most Viewed" text="Yahoo News Most Viewed" xmlUrl="https://www.yahoo.com/news/rss/mostviewed" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.yahoo.com\/news\/rss\/mostviewed&quot;}"/>
+        </outline>
+        <outline title="0 - CARGILL PROTEST" text="0 - CARGILL PROTEST" selfoss:color="#8cdab0">
+            <outline title="Cargill Protest" text="Cargill Protest" xmlUrl="https://news.google.com/rss/search?q=Cargill+AND+Protest&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/news.google.com\/rss\/search?q=Cargill+AND+Protest&amp;hl=en-US&amp;gl=US&amp;ceid=US:en&quot;}"/>
+        </outline>
+        <outline title="EXPLOSIVES" text="EXPLOSIVES" selfoss:color="#823cd1">
+            <outline title="CBRNE" text="CBRNE" xmlUrl="https://cbrnecentral.com/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/cbrnecentral.com\/feed\/&quot;}"/>
+        </outline>
+        <outline title="11 - GOV" text="11 - GOV" selfoss:color="#2ccd91">
+            <outline title="CIA Newsroom" text="CIA Newsroom" xmlUrl="https://www.cia.gov/news-information/your-news/cia-newsroom/RSS.xml" type="rss" selfoss:spout="spouts\rss\enclosures" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.cia.gov\/news-information\/your-news\/cia-newsroom\/RSS.xml&quot;}"/>
+            <outline title="FBI In The News" text="FBI In The News" xmlUrl="https://www.fbi.gov/feeds/fbi-in-the-news/atom.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.fbi.gov\/feeds\/fbi-in-the-news\/atom.xml&quot;}"/>
+        </outline>
+        <outline title="14 - CERT" text="14 - CERT" selfoss:color="#9d0573">
+            <outline title="CIRCL Response Center" text="CIRCL Response Center" xmlUrl="https://www.circl.lu/rss.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.circl.lu\/rss.xml&quot;}"/>
+            <outline title="ICS-CERT Advisories" text="ICS-CERT Advisories" xmlUrl="https://ics-cert.us-cert.gov/advisories/advisories.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/ics-cert.us-cert.gov\/advisories\/advisories.xml&quot;}"/>
+            <outline title="ICS-CERT Alerts" text="ICS-CERT Alerts" xmlUrl="https://ics-cert.us-cert.gov/alerts/alerts.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/ics-cert.us-cert.gov\/alerts\/alerts.xml&quot;}"/>
+            <outline title="ICS-CERT Annoucements" text="ICS-CERT Annoucements" xmlUrl="https://ics-cert.us-cert.gov/announcements/announcements.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/ics-cert.us-cert.gov\/announcements\/announcements.xml&quot;}"/>
+            <outline title="ICS-CERT Monitors" text="ICS-CERT Monitors" xmlUrl="https://ics-cert.us-cert.gov/monitors/monitors.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/ics-cert.us-cert.gov\/monitors\/monitors.xml&quot;}"/>
+            <outline title="US-CERT" text="US-CERT" xmlUrl="https://www.us-cert.gov/ncas/all.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.us-cert.gov\/ncas\/all.xml&quot;}"/>
+        </outline>
+        <outline title="Alerts" text="Alerts" selfoss:color="#10d80c">
+            <outline title="CISA" text="CISA" xmlUrl="https://www.us-cert.gov/ncas/alerts.xml" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.us-cert.gov\/ncas\/alerts.xml&quot;}"/>
+        </outline>
+        <outline title="0 - CISA" text="0 - CISA" selfoss:color="#d65247">
+            <outline title="CISA" text="CISA" xmlUrl="https://www.us-cert.gov/ncas/current-activity.xml" type="rss" selfoss:spout="spouts\rss\enclosures" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.us-cert.gov\/ncas\/current-activity.xml&quot;}"/>
+        </outline>
+        <outline title="92 - COMRFP" text="92 - COMRFP" selfoss:color="#b39eb1">
+            <outline title="Commercial RFPs" text="Commercial RFPs" xmlUrl="http://feeds.feedburner.com/RFPMart" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/feeds.feedburner.com\/RFPMart&quot;}"/>
+        </outline>
+        <outline title="1 - Reports" text="1 - Reports" selfoss:color="#cb0000">
+            <outline title="Cyber Security Attacks" text="Cyber Security Attacks" xmlUrl="https://www.cshub.com/rss/categories/attacks" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.cshub.com\/rss\/categories\/attacks&quot;}"/>
+            <outline title="Cyber Security Reports" text="Cyber Security Reports" xmlUrl="https://www.cshub.com/rss/reports" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.cshub.com\/rss\/reports&quot;}"/>
+            <outline title="IOT Incident Feed" text="IOT Incident Feed" xmlUrl="https://www.cshub.com/rss/categories/iot" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.cshub.com\/rss\/categories\/iot&quot;}"/>
+            <outline title="Malware Reports" text="Malware Reports" xmlUrl="https://www.cshub.com/rss/categories/malware" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.cshub.com\/rss\/categories\/malware&quot;}"/>
+            <outline title="Threat Defense" text="Threat Defense" xmlUrl="https://www.cshub.com/rss/categories/threat-defense" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.cshub.com\/rss\/categories\/threat-defense&quot;}"/>
+        </outline>
+        <outline title="9 - MALWARE" text="9 - MALWARE" selfoss:color="#ea9796">
+            <outline title="Dark Reading" text="Dark Reading" xmlUrl="http://www.darkreading.com/rss_simple.asp" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.darkreading.com\/rss_simple.asp&quot;}"/>
+            <outline title="Malware Breakdown" text="Malware Breakdown" xmlUrl="https://malwarebreakdown.com/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/malwarebreakdown.com\/feed\/&quot;}"/>
+        </outline>
+        <outline title="4 - TECHNOLOGY" text="4 - TECHNOLOGY" selfoss:color="#a8d80e">
+            <outline title="Dark Reading News" text="Dark Reading News" xmlUrl="http://www.darkreading.com/rss_simple.asp?f_auth=322" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.darkreading.com\/rss_simple.asp?f_auth=322&quot;}"/>
+        </outline>
+        <outline title="13 - DARKWEB" text="13 - DARKWEB" selfoss:color="#d9e4b4">
+            <outline title="Darknet The Darkside" text="Darknet The Darkside" xmlUrl="http://feeds.feedburner.com/darknethackers?format=xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/feeds.feedburner.com\/darknethackers?format=xml&quot;}"/>
+        </outline>
+        <outline title="7 - BREACHES" text="7 - BREACHES" selfoss:color="#9137b3">
+            <outline title="Data Breaches" text="Data Breaches" xmlUrl="http://www.databreaches.net/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.databreaches.net\/feed\/&quot;}"/>
+            <selfoss:outline title="Dumpmon" text="Dumpmon" selfoss:spout="spouts\twitter\usertimeline" selfoss:params="{&quot;consumer_key&quot;:&quot;UAiQy9lbVPRzB5SaOivHoM3BJ&quot;,&quot;consumer_secret&quot;:&quot;ZtQHTffP7KMtaVU0FnItiilQQy9let2JH2Yf1ONj1EC72RMMiW&quot;,&quot;access_token&quot;:&quot;&quot;,&quot;access_token_secret&quot;:null,&quot;username&quot;:&quot;@HeliosCert&quot;}"/>
+        </outline>
+        <outline title="Defacements" text="Defacements" selfoss:color="#9dbca6">
+            <outline title="Defacements" text="Defacements" xmlUrl="http://zone-h.org/rss/specialdefacements" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/zone-h.org\/rss\/specialdefacements&quot;}"/>
+        </outline>
+        <outline title="DOT" text="DOT" selfoss:color="#50ed6c">
+            <outline title="DOT CSA FMCSA" text="DOT CSA FMCSA" xmlUrl="https://csa.fmcsa.dot.gov/RSS.aspx" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/csa.fmcsa.dot.gov\/RSS.aspx&quot;}"/>
+        </outline>
+        <outline title="1 - DRUDGE" text="1 - DRUDGE" selfoss:color="#0e4594">
+            <outline title="Drudge Report" text="Drudge Report" xmlUrl="https://feedpress.me/drudgereportfeed" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/feedpress.me\/drudgereportfeed&quot;}"/>
+        </outline>
+        <outline title="0 - SEC" text="0 - SEC" selfoss:color="#83875f">
+            <outline title="Exploit IN Feed" text="Exploit IN Feed" xmlUrl="https://exploit.in/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/exploit.in\/feed\/&quot;}"/>
+        </outline>
+        <outline title="16 - MAILLIST" text="16 - MAILLIST" selfoss:color="#41cd8b">
+            <outline title="Full Disclosure Mailing List" text="Full Disclosure Mailing List" xmlUrl="http://seclists.org/rss/fulldisclosure.rss" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/seclists.org\/rss\/fulldisclosure.rss&quot;}"/>
+            <outline title="SecureList" text="SecureList" xmlUrl="http://securelist.com/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/securelist.com\/feed\/&quot;}"/>
+        </outline>
+        <outline title="1 - NEWSCORRUPTION" text="1 - NEWSCORRUPTION" selfoss:color="#a1eda3">
+            <outline title="Global Investigative Reporting Database" text="Global Investigative Reporting Database" xmlUrl="https://gijn.org/?feed=combined_feed_rss2" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/gijn.org\/?feed=combined_feed_rss2&quot;}"/>
+        </outline>
+        <outline title="6 - SEC" text="6 - SEC" selfoss:color="#fb1c2d">
+            <outline title="Global Security" text="Global Security" xmlUrl="http://www.globalsecurity.org/globalsecurity-org.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.globalsecurity.org\/globalsecurity-org.xml&quot;}"/>
+            <outline title="Just Security" text="Just Security" xmlUrl="https://www.justsecurity.org/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.justsecurity.org\/feed\/&quot;}"/>
+            <outline title="Naked Security" text="Naked Security" xmlUrl="https://nakedsecurity.sophos.com/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/nakedsecurity.sophos.com\/feed\/&quot;}"/>
+            <outline title="Search Security" text="Search Security" xmlUrl="http://searchsecurity.techtarget.com/rss/Security-Wire-Daily-News.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/searchsecurity.techtarget.com\/rss\/Security-Wire-Daily-News.xml&quot;}"/>
+            <outline title="Security Intelligence" text="Security Intelligence" xmlUrl="http://securityintelligence.com/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/securityintelligence.com\/feed\/&quot;}"/>
+            <outline title="Security Magazine" text="Security Magazine" xmlUrl="http://www.securitymagazine.com/rss/15" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.securitymagazine.com\/rss\/15&quot;}"/>
+            <outline title="Security Week" text="Security Week" xmlUrl="http://feeds.feedburner.com/Securityweek?format=xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/feeds.feedburner.com\/Securityweek?format=xml&quot;}"/>
+            <outline title="Threatpost" text="Threatpost" xmlUrl="http://threatpost.com/feed" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/threatpost.com\/feed&quot;}"/>
+            <outline title="We Live Security" text="We Live Security" xmlUrl="http://feeds.feedburner.com/eset/blog?format=xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/feeds.feedburner.com\/eset\/blog?format=xml&quot;}"/>
+        </outline>
+        <outline title="0 - CARGILL" text="0 - CARGILL" selfoss:color="#9cde22">
+            <outline title="Google News Cargill" text="Google News Cargill" xmlUrl="https://news.google.com/rss/search?q=cargill&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/news.google.com\/rss\/search?q=cargill&amp;hl=en-US&amp;gl=US&amp;ceid=US:en&quot;}"/>
+        </outline>
+        <outline title="Fireworks" text="Fireworks" selfoss:color="#327cc6">
+            <outline title="Google News Fireworks" text="Google News Fireworks" xmlUrl="https://www.google.com/alerts/feeds/03233685547527364864/4520681716859409314" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.google.com\/alerts\/feeds\/03233685547527364864\/4520681716859409314&quot;}"/>
+            <outline title="Google News Pyrotechnics" text="Google News Pyrotechnics" xmlUrl="https://www.google.com/alerts/feeds/03233685547527364864/8681760131438038437" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.google.com\/alerts\/feeds\/03233685547527364864\/8681760131438038437&quot;}"/>
+        </outline>
+        <outline title="1 - INTEL" text="1 - INTEL" selfoss:color="#fec90e">
+            <outline title="Gov News" text="Gov News" xmlUrl="https://www.nextgov.com/rss/all/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.nextgov.com\/rss\/all\/&quot;}"/>
+            <outline title="Infowars" text="Infowars" xmlUrl="https://www.infowars.com/feed/custom_feed_rss" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.infowars.com\/feed\/custom_feed_rss&quot;}"/>
+        </outline>
+        <outline title="20 - PRIFEEDS" text="20 - PRIFEEDS" selfoss:color="#d3c830">
+            <outline title="Graham Cluley" text="Graham Cluley" xmlUrl="https://www.grahamcluley.com/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.grahamcluley.com\/feed\/&quot;}"/>
+            <outline title="Krebs On Security" text="Krebs On Security" xmlUrl="http://krebsonsecurity.com/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/krebsonsecurity.com\/feed\/&quot;}"/>
+            <outline title="Schneier on Security" text="Schneier on Security" xmlUrl="https://www.schneier.com/blog/atom.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.schneier.com\/blog\/atom.xml&quot;}"/>
+            <outline title="Troy Hunt Blog" text="Troy Hunt Blog" xmlUrl="http://feeds.feedburner.com/TroyHunt?format=xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/feeds.feedburner.com\/TroyHunt?format=xml&quot;}"/>
+        </outline>
+        <outline title="99 - Suspicious Domains" text="99 - Suspicious Domains" selfoss:color="#5f7c8a">
+            <outline title="Host-File-NET Domain List" text="Host-File-NET Domain List" xmlUrl="https://hosts-file.net/rss.asp" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/hosts-file.net\/rss.asp&quot;}"/>
+        </outline>
+        <outline title="0 - HONEYPOT" text="0 - HONEYPOT" selfoss:color="#9c3325">
+            <selfoss:outline title="Idaho Honeypots" text="Idaho Honeypots" selfoss:spout="spouts\twitter\usertimeline" selfoss:params="{&quot;consumer_key&quot;:&quot;UAiQy9lbVPRzB5SaOivHoM3BJ&quot;,&quot;consumer_secret&quot;:&quot;ZtQHTffP7KMtaVU0FnItiilQQy9let2JH2Yf1ONj1EC72RMMiW&quot;,&quot;access_token&quot;:&quot;&quot;,&quot;access_token_secret&quot;:&quot;&quot;,&quot;username&quot;:&quot;@idahohoneypot&quot;}"/>
+            <selfoss:outline title="WebironBots" text="WebironBots" selfoss:spout="spouts\twitter\usertimeline" selfoss:params="{&quot;consumer_key&quot;:&quot;UAiQy9lbVPRzB5SaOivHoM3BJ&quot;,&quot;consumer_secret&quot;:&quot;ZtQHTffP7KMtaVU0FnItiilQQy9let2JH2Yf1ONj1EC72RMMiW&quot;,&quot;access_token&quot;:&quot;&quot;,&quot;access_token_secret&quot;:&quot;&quot;,&quot;username&quot;:&quot;@WebironBots&quot;}"/>
+        </outline>
+        <outline title="IranWire" text="IranWire" selfoss:color="#5fabc4">
+            <outline title="IranWire" text="IranWire" xmlUrl="https://news.google.com/rss/search?q=Iran&amp;hl=en-US&amp;gl=US&amp;ceid=US:en" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/news.google.com\/rss\/search?q=Iran&amp;hl=en-US&amp;gl=US&amp;ceid=US:en&quot;}"/>
+        </outline>
+        <outline title="11 - GOV - JUSTICE" text="11 - GOV - JUSTICE" selfoss:color="#dbb9f8">
+            <outline title="Justice Department News" text="Justice Department News" xmlUrl="https://www.justice.gov/feeds/opa/justice-news.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.justice.gov\/feeds\/opa\/justice-news.xml&quot;}"/>
+        </outline>
+        <outline title="9-MALWARE" text="9-MALWARE" selfoss:color="#dbb764">
+            <outline title="MTA" text="MTA" xmlUrl="https://www.malware-traffic-analysis.net/blog-entries.rss" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.malware-traffic-analysis.net\/blog-entries.rss&quot;}"/>
+        </outline>
+        <outline title="0 - PRIORITY" text="0 - PRIORITY" selfoss:color="#293c83">
+            <outline title="NCAS Alerts" text="NCAS Alerts" xmlUrl="https://www.us-cert.gov/ncas/all.xml" type="rss" selfoss:spout="spouts\rss\fulltextrss" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.us-cert.gov\/ncas\/all.xml&quot;}"/>
+        </outline>
+        <outline title="8 - PRIVACY" text="8 - PRIVACY" selfoss:color="#129c1c">
+            <outline title="Privacy Rights Clearing House News" text="Privacy Rights Clearing House News" xmlUrl="http://www.privacyrights.org/rss.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.privacyrights.org\/rss.xml&quot;}"/>
+            <outline title="Public Intelligence" text="Public Intelligence" xmlUrl="https://publicintelligence.net/feed/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/publicintelligence.net\/feed\/&quot;}"/>
+        </outline>
+        <outline title="10 - PODCAST" text="10 - PODCAST" selfoss:color="#373d18">
+            <outline title="SANS Daily Podcast" text="SANS Daily Podcast" xmlUrl="https://isc.sans.edu/dailypodcast.xml" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/isc.sans.edu\/dailypodcast.xml&quot;}"/>
+        </outline>
+        <outline title="11 - GOV - JUSTICE - SUPREME COURT" text="11 - GOV - JUSTICE - SUPREME COURT" selfoss:color="#4b586b">
+            <outline title="US Supreme Court Justice News" text="US Supreme Court Justice News" xmlUrl="https://www.justice.gov/osg/supreme-court-briefs/feed" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.justice.gov\/osg\/supreme-court-briefs\/feed&quot;}"/>
+            <outline title="US Supreme Court Justice News" text="US Supreme Court Justice News" xmlUrl="https://www.justice.gov/osg/supreme-court-briefs/feed" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;https:\/\/www.justice.gov\/osg\/supreme-court-briefs\/feed&quot;}"/>
+        </outline>
+        <outline title="1 - LOCALNEWS" text="1 - LOCALNEWS" selfoss:color="#6ccb46">
+            <outline title="WRAL News" text="WRAL News" xmlUrl="http://www.wral.com/news/rss/3/" type="rss" selfoss:spout="spouts\rss\feed" selfoss:params="{&quot;url&quot;:&quot;http:\/\/www.wral.com\/news\/rss\/3\/&quot;}"/>
+        </outline>
+    </body>
+</opml>
