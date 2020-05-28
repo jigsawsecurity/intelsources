@@ -1,0 +1,29 @@
+Gulf News,https://gulfnews.com/rss/?generatorName=mrss&uuid=5bd9758c-9198-40ac-8d81-1e38745d5485
+Gulf News UAE News,https://gulfnews.com/rss/?generatorName=mrss&categories=UAE,Education,Crime,Government,Health,Weather,Transport,Science,Environment
+Gulf News Latest Business,https://gulfnews.com/rss/?generatorName=mrss&categories=Business,Banking,Aviation,Property,Energy,Analysis,Tourism,Markets,Retail,Personal-Finance,Podcast
+The Jerusalem Post,https://www.jpost.com/rss/rssfeedsfrontpage.aspx
+Arab Israeli Conflict,https://www.jpost.com/rss/rssfeedsarabisraeliconflict.aspx
+Gaza News,https://www.jpost.com/rss/rssfeedsgaza.aspx
+BDS Movement,https://www.jpost.com/rss/rssfeedsbdsthreat.aspx
+JPost Breaking News,https://www.jpost.com/rss/rssfeedsheadlines.aspx
+Anti Semitism,https://www.jpost.com/rss/rssfeedsantisemitism
+Islamic Terrorism,https://www.jpost.com/rss/rssfeedsislamicterrorism
+Israel News,https://www.jpost.com/rss/rssfeedsisraelnews.aspx
+Israel Culture,https://www.jpost.com/rss/rssfeedsculture.aspx
+JPost Middle East,https://www.jpost.com/rss/rssfeedsmiddleeastnews.aspx
+New York Times Middle East,https://rss.nytimes.com/services/xml/rss/nyt/MiddleEast.xml
+Zawya Regional,https://www.zawya.com/rssfeeds/regional.xml
+Islamic TR Wire,https://www.zawya.com/rss/default.cfm?rssid=23C341EC-8851-9E2C-C35A985480E8068B
+Sharia & Legal,https://www.zawya.com/rss/default.cfm?rssid=4A546A17-98FB-F37D-5CDE1F607751171A
+Takaful,https://www.zawya.com/rss/default.cfm?rssid=CB233F18-E93A-4399-F94F782EE3D6741B
+MENA,https://www.zawya.com/rss/default.cfm?rssid=3E3EB035-6CF5-B280-0A5D596611570B19
+Southeast Asia,https://www.zawya.com/rss/default.cfm?rssid=E8202BB4-1859-641A-41E58AB5602E0C51
+Arab News,https://www.arabnews.com/rss.xml
+Saudi Arabia,https://www.arabnews.com/cat/1/rss.xml
+Middle East,https://www.arabnews.com/cat/2/rss.xml
+Islam Perspective,https://www.arabnews.com/cat/47/rss.xml
+Middle East Features,https://www.atkinsglobal.com/en-GB/rss/middle-east-news/features
+Middle East Africa Mena,https://eeas.europa.eu/regions/middle-east-north-africa-mena/rss.xml_en?field_eeas_published_on_tid%5B0%5D=74&language%5B0%5D=%2A%2A%2ACURRENT_LANGUAGE%2A%2A%2A
+Aljazeera,https://www.aljazeera.com/xml/rss/all.xml
+Voice of Middle East,https://kpfa.org/program/voices-of-the-middle-east-and-north-africa/feed/
+Pew Research,https://www.pewresearch.org/topics/middle-east-and-north-africa/feed/
