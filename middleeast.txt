@@ -27,3 +27,4 @@ Middle East Africa Mena,https://eeas.europa.eu/regions/middle-east-north-africa-
 Aljazeera,https://www.aljazeera.com/xml/rss/all.xml
 Voice of Middle East,https://kpfa.org/program/voices-of-the-middle-east-and-north-africa/feed/
 Pew Research,https://www.pewresearch.org/topics/middle-east-and-north-africa/feed/
+Middle East Google,https://news.google.com/rss/search?q=middleeast&hl=en-US&gl=US&ceid=US:en
